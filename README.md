@@ -1,4 +1,4 @@
-# Printing-2-D-Array-Element
+//# Printing-2-D-Array-Element
 #include<iostream>
 using namespace std;
 void row_wise_printing(int a[][3],int rownumber, int colnumber){
